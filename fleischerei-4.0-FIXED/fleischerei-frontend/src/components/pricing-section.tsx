@@ -22,7 +22,7 @@ export default function PricingSection() {
           </p>
           <div className="mt-4 p-3 bg-amber-900/20 border border-amber-600/30 rounded-lg max-w-2xl mx-auto">
             <p className="text-sm text-amber-200">
-              <strong>Hinweis:</strong> Die angezeigten Preise sind Musterdaten zur Orientierung. 
+              <strong>Hinweis:</strong> * Die angezeigten Preise sind Musterdaten zur Orientierung. 
               Die finalen Kosten werden nach ausführlichen Gesprächen, internen Analysen und 
               Besichtigungen der bestehenden Systeme individuell beurteilt und vereinbart.
             </p>
@@ -39,9 +39,9 @@ export default function PricingSection() {
             </CardHeader>
             <CardContent className="space-y-4">
               <div className="text-center">
-                <div className="text-3xl font-bold text-amber-400 mb-2">6.000€-12.000€</div>
-                <div className="text-stone-400">Monatliche Betriebskosten</div>
-                <div className="text-sm text-stone-500 mt-2">Setup ab 12.000€ (gestaffelt)</div>
+                <div className="text-3xl font-bold text-amber-400 mb-2">*6.000€-12.000€</div>
+                <div className="text-stone-400">*Monatliche Betriebskosten</div>
+                <div className="text-sm text-stone-500 mt-2">Setup ab *12.000€ (gestaffelt)</div>
               </div>
               <ul className="space-y-2 text-sm">
                 <li className="flex items-center">
