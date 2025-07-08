@@ -82,8 +82,8 @@ export default function Footer() {
         </div>
         
         <div className="border-t border-slate-700 mt-8 pt-8 text-center text-slate-400 text-sm">
-          <p>© 2024 Fleischerei 4.0. Alle Rechte vorbehalten.</p>
-          <p className="mt-2">Projektleitung: Avian Weinberger, Partner & Co | Made with ♥ in Schlierbach & Kremsmünster, Österreich</p>
+          <p>© 2025 Fleischerei 4.0. Alle Rechte vorbehalten.</p>
+          <p className="mt-2">Projektleitung: Avian Weinberger, Partner & Co | Made with ♥ in Kremsmünster, Österreich</p>
           <p className="mt-2">DSGVO-konform | Datenschutz nach EU-Standards</p>
         </div>
       </div>
